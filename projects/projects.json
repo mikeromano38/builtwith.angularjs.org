@@ -2,6 +2,18 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Razoo Giving Personal Fundraiser Creator",
+      "thumb": "razoo-giving/thumb.png",
+      "desc": "People just like you have used Razoo to create more than 68,000 fundraising pages and to give over 1.3 million donations to the causes they care about.",
+      "url": "http://www.razoo.com/br/causes/new",
+      "info": "http://news.razoo.com",
+      "submitter": "mikeromano38",
+      "submissionDate": "2012-07-08",
+      "tags": [
+        "Production", "Crowdfunding", "Animations", "Local Storage", "jQuery" 
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
